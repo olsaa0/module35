@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+}
+p{
+    color:peachpuff;
+}
+.card-title{
+    color:palevioletred;
+}
+.navbar-brand{
+    color:palevioletred;
+}
+.btn{
+    background-color: papayawhip;
+    border-color: palevioletred;
+}
+
